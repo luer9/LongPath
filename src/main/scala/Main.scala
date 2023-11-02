@@ -19,13 +19,6 @@ object Main {
     //      val files = dir.listFiles()
     //      files.foreach(file => println(file.getName()))
     //    }
-
-
-
-
-
-
-
     // 读取一个vp表
     val curPred = "14967"
     // "45293"   "14966" OME
